@@ -9,7 +9,7 @@ Django==1.11.18
 # django rest framework
 djangorestframework==3.8.2
 
-gunicorn==19.6.0
+gunicorn
 
 dj-database-url==0.3.0
 python-decouple==3
