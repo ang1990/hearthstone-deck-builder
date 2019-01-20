@@ -1,3 +1,0 @@
-This is a blank file. I'm trying to create the .git file.
-
-Hello world.
