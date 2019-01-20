@@ -1,0 +1,1 @@
+For no reason other than to trigger git to recognize the staticfiles folder.
