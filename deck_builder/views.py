@@ -78,7 +78,7 @@ class DeckBuilderView(View):
         elif not request.GET['player_class'] in self.PLAYER_CLASS_LIST:
             return HttpResponseBadRequest('Sorry, invalid player class.')
 
-        player_class = requests.GET['player_class']
+        player_class = request.GET['player_class']
 
         allowed_cards = HearthstoneCard.objects.filter(playerClass__in=[player_class, 'Neutral'])
         allowed_cards_pks = allowed_cards.values_list('pk', flat=True)
