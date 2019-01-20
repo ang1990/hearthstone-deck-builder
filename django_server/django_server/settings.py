@@ -23,7 +23,8 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 ALLOWED_HOSTS = ['0.0.0.0',
                  'https://ys-mark-hearthstone.herokuapp.com/',
                  'www.example.com',
-                 '.example.com']
+                 '.example.com',
+                 'example.herokuapp.com']
 
 
 # Application definition
