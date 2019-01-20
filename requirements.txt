@@ -13,3 +13,4 @@ gunicorn==19.6.0
 
 dj-database-url==0.3.0
 python-decouple==3
+whitenoise
