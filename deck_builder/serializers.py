@@ -8,3 +8,4 @@ from .models import HearthstoneCard
 class HearthstoneCardSerializer(ModelSerializer):
     class Meta:
         model = HearthstoneCard
+        fields = '__all__'
