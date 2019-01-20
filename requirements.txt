@@ -1,0 +1,10 @@
+
+requests==2.19.1
+
+# database
+psycopg2==2.7.5
+
+Django==1.11.18
+
+# django rest framework
+djangorestframework==3.8.2
