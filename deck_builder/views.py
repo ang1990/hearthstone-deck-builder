@@ -5,10 +5,12 @@ import requests
 import math
 import random
 
-
 from django.views import View
 
 from django.http.response import HttpResponse, HttpResponseBadRequest
+
+from rest_framework.response import Response
+from rest_framework.views import APIView
 
 from .models import HearthstoneCard
 from .serializers import HearthstoneCardSerializer
@@ -56,7 +58,7 @@ DECK BUILDER RULES:
 '''
 
 
-class DeckBuilderView(View):
+class DeckBuilderView(APIView):
     PLAYER_CLASS_LIST = ['Druid', 'Hunter', 'Mage',
                          'Paladin', 'Priest', 'Rogue',
                          'Shaman', 'Warlock', 'Warrior',
@@ -81,7 +83,7 @@ class DeckBuilderView(View):
         player_class = request.GET['player_class']
 
         allowed_cards = HearthstoneCard.objects.filter(playerClass__in=[player_class, 'Neutral'])
-        allowed_cards_pks = allowed_cards.values_list('pk', flat=True)
+        allowed_cards_pks = list(allowed_cards.values_list('pk', flat=True))
 
         # Rule 3 means we must have enough card types in the deck from the source.
         # If we don't have then it means something's wrong with the data.
@@ -98,12 +100,14 @@ class DeckBuilderView(View):
             try:
                 # Limit the number per type here.
                 if player_card_current_count_dict[choice] < self.CARD_MAX_PER_TYPE:
-                    player_card_data += self.get_serializer(instance=HearthstoneCard.objects.get(pk=choice)).data
+                    srz = self.get_serializer(instance=HearthstoneCard.objects.get(pk=choice))
+                    player_card_data.append(srz.data)
                     player_card_current_count_dict[choice] += 1
                 else:
                     allowed_cards_pks.remove(choice)
             except KeyError:
-                player_card_data += self.get_serializer(instance=HearthstoneCard.objects.get(pk=choice)).data
+                srz = self.get_serializer(instance=HearthstoneCard.objects.get(pk=choice))
+                player_card_data.append(srz.data)
                 player_card_current_count_dict[choice] = 1
 
-        return HttpResponse(player_card_data, status=200)
+        return Response(data=player_card_data, status=200)

@@ -4,6 +4,21 @@ from .models import HearthstoneCard
 
 from django.contrib import admin
 
+
 # Register your models here.
 
-admin.register(HearthstoneCard)
+class HearthstoneCardAdmin(admin.ModelAdmin):
+    list_display = [
+        'pk',
+        'cardId',
+        'dbfId',
+        'name',
+        'cardSet',
+        'type',
+        'text',
+        'playerClass',
+        'locale'
+    ]
+
+
+admin.site.register(HearthstoneCard, HearthstoneCardAdmin)
