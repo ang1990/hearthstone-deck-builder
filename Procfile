@@ -1,1 +1,1 @@
-web: python django_server/manage.py runserver 0.0.0.0:$PORT --noreload
+web: python django_server/manage.py runserver 0.0.0.0:$PORT --noreload --settings=django_server.settings_heroku
