@@ -19,6 +19,6 @@ from deck_builder.views import *
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^get_cards/', DeckBuilderView.as_view()),
+    url(r'^get_cards/', DeckBuilderView.as_view(), name='get_cards'),
     url(r'^rebuild_db/', ReloadDeckView.as_view()),
 ]

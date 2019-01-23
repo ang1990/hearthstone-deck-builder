@@ -47,7 +47,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'django_server.urls'
+ROOT_URLCONF = 'django_server.django_server.urls'
 
 TEMPLATES = [
     {

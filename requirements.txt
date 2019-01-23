@@ -12,3 +12,6 @@ djangorestframework==3.8.2
 dj-database-url==0.3.0
 python-decouple==3
 whitenoise
+
+pytest
+pytest-django

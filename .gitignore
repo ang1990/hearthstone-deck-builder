@@ -3,3 +3,4 @@
 
 *.sqlite3
 .idea/*
+django_server/db\.sqlite3\.test

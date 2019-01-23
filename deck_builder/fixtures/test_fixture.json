@@ -1,0 +1,2592 @@
+[
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 1,
+    "fields": {
+      "cardId": "TRL_500e",
+      "dbfId": 50371,
+      "name": "Absolutely Mad!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2/+2.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 2,
+    "fields": {
+      "cardId": "TRLA_153e",
+      "dbfId": 53960,
+      "name": "Attentive Conjuring",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Costs (2) less.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 3,
+    "fields": {
+      "cardId": "TRL_505e",
+      "dbfId": 50378,
+      "name": "Avenger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Costs (1) less.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 4,
+    "fields": {
+      "cardId": "TRL_509te",
+      "dbfId": 53217,
+      "name": "Bananas",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Has +1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 5,
+    "fields": {
+      "cardId": "TRL_304e",
+      "dbfId": 52743,
+      "name": "Battle Ready",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2/+2 from Farraki Battleaxe.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 6,
+    "fields": {
+      "cardId": "TRL_514e",
+      "dbfId": 50394,
+      "name": "Belligerent",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1 Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 7,
+    "fields": {
+      "cardId": "TRL_901e",
+      "dbfId": 50786,
+      "name": "Blessing of Halazzi",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 8,
+    "fields": {
+      "cardId": "TRL_409e",
+      "dbfId": 50788,
+      "name": "Blood in the Water",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Destroyed {0} and gained its stats.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 9,
+    "fields": {
+      "cardId": "TRLA_113e",
+      "dbfId": 52785,
+      "name": "Blood Pact Player Enchantment",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Spells cost Health instead of Mana.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 10,
+    "fields": {
+      "cardId": "TRL_071e",
+      "dbfId": 49839,
+      "name": "Bloody Sails",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Increased stats.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 11,
+    "fields": {
+      "cardId": "TRLA_106e",
+      "dbfId": 52842,
+      "name": "Bottled Terror",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2 Attack.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 12,
+    "fields": {
+      "cardId": "TRL_074e",
+      "dbfId": 49844,
+      "name": "Carnassial",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Rush</b>.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 13,
+    "fields": {
+      "cardId": "TRL_528e",
+      "dbfId": 50417,
+      "name": "Crazed",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Doubled Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 14,
+    "fields": {
+      "cardId": "TRL_501e",
+      "dbfId": 50905,
+      "name": "Dark Soul",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Your healing effects are dealing damage.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 15,
+    "fields": {
+      "cardId": "TRLA_131e",
+      "dbfId": 54117,
+      "name": "Empowered Glyph",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Increased Spell Damage.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 16,
+    "fields": {
+      "cardId": "TRLA_176e",
+      "dbfId": 52933,
+      "name": "Flamed",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Has <b>Rush</b>.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 17,
+    "fields": {
+      "cardId": "TRL_390e2",
+      "dbfId": 53219,
+      "name": "Flameweaving",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Your next Hero Power deals 2 more damage.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 18,
+    "fields": {
+      "cardId": "TRLA_171e",
+      "dbfId": 53000,
+      "name": "Fury of the Rhino",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Overkill:</b> This minion can attack again.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 19,
+    "fields": {
+      "cardId": "TRLA_116e",
+      "dbfId": 54788,
+      "name": "Gonk's Bond",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Increased Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 20,
+    "fields": {
+      "cardId": "TRLA_115",
+      "dbfId": 50952,
+      "name": "Gonk's Mark",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "[x]<b>Shrine</b>\\nAfter you summon a\\nminion, give it +1/+1.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 21,
+    "fields": {
+      "cardId": "TRLA_115e",
+      "dbfId": 53965,
+      "name": "Gonk's Mark",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 22,
+    "fields": {
+      "cardId": "TRL_249e",
+      "dbfId": 50015,
+      "name": "Grim Rally",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 23,
+    "fields": {
+      "cardId": "TRLA_163e",
+      "dbfId": 53259,
+      "name": "Halazzi's Haste",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Rush</b>.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 24,
+    "fields": {
+      "cardId": "TRLA_163e3",
+      "dbfId": 53976,
+      "name": "Halazzi's Protector",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Taunt</b>.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 25,
+    "fields": {
+      "cardId": "TRLA_163e4",
+      "dbfId": 53977,
+      "name": "Halazzi's Wrath",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Poisonous</b>.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 26,
+    "fields": {
+      "cardId": "TRL_111e1",
+      "dbfId": 50643,
+      "name": "Headhunter's Hatchet",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Increased Durability.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 27,
+    "fields": {
+      "cardId": "TRL_407e",
+      "dbfId": 50498,
+      "name": "High Quality H2O",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Your Hero Power costs (0).",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 28,
+    "fields": {
+      "cardId": "TRL_251e",
+      "dbfId": 50027,
+      "name": "Hir'eek's Offering",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Increased stats from Spirit of the Bat.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 29,
+    "fields": {
+      "cardId": "TRL_077e",
+      "dbfId": 49976,
+      "name": "Hype!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Gurubashi Hypemon made this 1/1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 30,
+    "fields": {
+      "cardId": "TRLA_128e",
+      "dbfId": 54112,
+      "name": "Jan'alai's Flame Player Enchant",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Your Hero Power costs (0) this turn.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 31,
+    "fields": {
+      "cardId": "TRLA_155",
+      "dbfId": 52891,
+      "name": "Krag'wa's Grace",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "[x]<b>Shrine</b>\\nYour spells cost (2) less.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 32,
+    "fields": {
+      "cardId": "TRLA_180e",
+      "dbfId": 54285,
+      "name": "Leering",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Player Enchant",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 33,
+    "fields": {
+      "cardId": "TRL_254ae",
+      "dbfId": 49996,
+      "name": "Mark of the Loa",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2/+4 and <b>Taunt</b>.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 34,
+    "fields": {
+      "cardId": "TRLA_164e",
+      "dbfId": 54029,
+      "name": "Panther's Lead",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Has <b>Rush</b>.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 35,
+    "fields": {
+      "cardId": "TRL_243e",
+      "dbfId": 50048,
+      "name": "Pounce",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2 Attack this turn.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 36,
+    "fields": {
+      "cardId": "TRL_312e",
+      "dbfId": 50228,
+      "name": "Power of Gurubashi",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Spell Damage +2</b>.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 37,
+    "fields": {
+      "cardId": "TRL_319e",
+      "dbfId": 52787,
+      "name": "Power of the Dragonhawk",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Your Hero Power also hits adjacent minions.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 38,
+    "fields": {
+      "cardId": "TRL_502e",
+      "dbfId": 50518,
+      "name": "Prayer to Bwonsamdi",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Bwonsamdi made this cost (1).",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 39,
+    "fields": {
+      "cardId": "TRL_244e",
+      "dbfId": 50060,
+      "name": "Predatory Instincts",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Doubled Health.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 40,
+    "fields": {
+      "cardId": "TRL_327e",
+      "dbfId": 52240,
+      "name": "Protected by Spirit of the Rhino",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Immune</b> this turn.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 41,
+    "fields": {
+      "cardId": "TRLA_172e",
+      "dbfId": 52925,
+      "name": "Quilboar Rally",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Taunt</b>.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 42,
+    "fields": {
+      "cardId": "TRL_506e",
+      "dbfId": 50382,
+      "name": "Ready to Strike",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+5 Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 43,
+    "fields": {
+      "cardId": "TRL_545e",
+      "dbfId": 50515,
+      "name": "Rejuvenated",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+4/+4 and <b>Taunt</b>.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 44,
+    "fields": {
+      "cardId": "TRLA_148e",
+      "dbfId": 52046,
+      "name": "Repurposed Steel",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 45,
+    "fields": {
+      "cardId": "TRL_329e",
+      "dbfId": 50603,
+      "name": "Rhino Skin",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+5/+5.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 46,
+    "fields": {
+      "cardId": "TRLA_174e",
+      "dbfId": 52928,
+      "name": "Rocking Out",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Can't be reduced below 1 Health.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 47,
+    "fields": {
+      "cardId": "TRLA_169e",
+      "dbfId": 52909,
+      "name": "Slamm'd N Jamm'd",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "This minion's Attack has been doubled.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 48,
+    "fields": {
+      "cardId": "TRL_255e",
+      "dbfId": 54782,
+      "name": "Stampede!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Has <b>Rush</b>.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 49,
+    "fields": {
+      "cardId": "TRL_119e",
+      "dbfId": 50673,
+      "name": "The Beast Within",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 50,
+    "fields": {
+      "cardId": "TRL_302e",
+      "dbfId": 50458,
+      "name": "Time Out!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Immune</b> until your next turn.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 51,
+    "fields": {
+      "cardId": "TRL_058e",
+      "dbfId": 50907,
+      "name": "Visions",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "The next spell you cast this turn costs (3) less.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 52,
+    "fields": {
+      "cardId": "TRL_082e",
+      "dbfId": 49854,
+      "name": "Voodoo",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Deathrattle:</b> Summon a minion that costs (1) more.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 53,
+    "fields": {
+      "cardId": "TRL_405e",
+      "dbfId": 50492,
+      "name": "Warpaint",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2/+2.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 54,
+    "fields": {
+      "cardId": "TRL_517e2",
+      "dbfId": 50399,
+      "name": "WHOOOOO!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 55,
+    "fields": {
+      "cardId": "TRLA_809e3",
+      "dbfId": 54201,
+      "name": "Windfall Blessing",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 56,
+    "fields": {
+      "cardId": "TRL_406e",
+      "dbfId": 54771,
+      "name": "Wrong Side of Da Bed",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+4 Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 57,
+    "fields": {
+      "cardId": "TRLA_113",
+      "dbfId": 50903,
+      "name": "Blood Pact",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "[x]<b>Shrine</b>\\nYour spells cost Health\\ninstead of Mana.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 58,
+    "fields": {
+      "cardId": "TRLA_807e2",
+      "dbfId": 53052,
+      "name": "Boon Reaper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Deathrattle:</b> Draw cards until your hand is full.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 59,
+    "fields": {
+      "cardId": "TRLA_147",
+      "dbfId": 52038,
+      "name": "Bwonsamdi's Covenant",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "[x]<b>Shrine</b>\\nHealing enemies\\ndamages them instead.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 60,
+    "fields": {
+      "cardId": "TRL_310e",
+      "dbfId": 50837,
+      "name": "Elemental Evocation",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "The next Elemental you play this turn costs (2) less.",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 61,
+    "fields": {
+      "cardId": "TRL_310",
+      "dbfId": 50120,
+      "name": "Elemental Evocation",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "The next Elemental you_play this turn costs (2) less.",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 62,
+    "fields": {
+      "cardId": "TRLA_124e",
+      "dbfId": 51410,
+      "name": "Empowered",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Increased Attack.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 63,
+    "fields": {
+      "cardId": "TRLA_802e",
+      "dbfId": 50960,
+      "name": "Favored",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Adjacent minions gain <b>Taunt</b>.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 64,
+    "fields": {
+      "cardId": "TRLA_803e",
+      "dbfId": 50964,
+      "name": "Fortified",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Restores to full Health each turn.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 65,
+    "fields": {
+      "cardId": "TRLA_129s",
+      "dbfId": 53174,
+      "name": "Frostfire",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Deal $1 damage.",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 66,
+    "fields": {
+      "cardId": "TRL_254a",
+      "dbfId": 49995,
+      "name": "Gonk's Resilience",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Give a minion +2/+4 and <b>Taunt</b>.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 67,
+    "fields": {
+      "cardId": "TRLA_162e",
+      "dbfId": 53256,
+      "name": "Halazzi's Hunt",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Overkill:</b> Reduce the cost of cards in your hand by (1).",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 68,
+    "fields": {
+      "cardId": "TRLA_207h",
+      "dbfId": 53229,
+      "name": "Hex Lord Malacrass",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Hero",
+      "text": "<i>Malacrass is on fire this year! And sometimes frost.</I>",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 69,
+    "fields": {
+      "cardId": "TRLA_109e",
+      "dbfId": 53199,
+      "name": "Overcharged",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+1 Attack for each Mana Crystal you've Overloaded.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 70,
+    "fields": {
+      "cardId": "TRLA_158",
+      "dbfId": 52884,
+      "name": "Overcharged Totem",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After you <b>Overload</b>,\\ndeal 2 damage to all enemy minions.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 71,
+    "fields": {
+      "cardId": "TRL_243",
+      "dbfId": 49990,
+      "name": "Pounce",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Give your hero +2_Attack this turn.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 72,
+    "fields": {
+      "cardId": "TRL_254b",
+      "dbfId": 49997,
+      "name": "Raptor Pack",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Summon two 3/2 Raptors.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 73,
+    "fields": {
+      "cardId": "TRL_128",
+      "dbfId": 50794,
+      "name": "Regenerate",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Restore #3 Health.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 74,
+    "fields": {
+      "cardId": "TRLA_801e",
+      "dbfId": 50959,
+      "name": "Sacred",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Your spells cost (1) less.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 75,
+    "fields": {
+      "cardId": "TRL_059e",
+      "dbfId": 50277,
+      "name": "Sloshed",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+2/+2.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 76,
+    "fields": {
+      "cardId": "TRLA_125e",
+      "dbfId": 51776,
+      "name": "The Fan Favorite",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "+10 Attack this turn.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 77,
+    "fields": {
+      "cardId": "TRLA_107",
+      "dbfId": 50842,
+      "name": "Tribal Shrine",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Shrine</b>\\n<b>Taunt</b>",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 78,
+    "fields": {
+      "cardId": "TRLA_809e2",
+      "dbfId": 53058,
+      "name": "Windfall Glyph",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Deathrattle</b>: Give all minions in your deck +1/+1.\"",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 79,
+    "fields": {
+      "cardId": "TRLA_806e2",
+      "dbfId": 53049,
+      "name": "Wrath of the Loas",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "<b>Deathrattle</b>: Destroy all enemy <b>Shrines</b>.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 80,
+    "fields": {
+      "cardId": "TRLA_201h",
+      "dbfId": 53223,
+      "name": "Zentimo",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Hero",
+      "text": "<i>This creepy swamp shaman is packing some_bad_voodoo.</i>",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 81,
+    "fields": {
+      "cardId": "TRL_509t",
+      "dbfId": 53215,
+      "name": "Bananas",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Give a minion +1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 82,
+    "fields": {
+      "cardId": "TRL_543",
+      "dbfId": 50512,
+      "name": "Bloodclaw",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "text": "<b>Battlecry:</b> Deal 5 damage to your hero.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 83,
+    "fields": {
+      "cardId": "TRL_321",
+      "dbfId": 50040,
+      "name": "Devastate",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Deal $4 damage to a damaged minion.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 84,
+    "fields": {
+      "cardId": "TRL_363t",
+      "dbfId": 50797,
+      "name": "Free Agent",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 85,
+    "fields": {
+      "cardId": "TRL_249",
+      "dbfId": 50012,
+      "name": "Grim Rally",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Destroy a friendly minion. Give your minions +1/+1.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 86,
+    "fields": {
+      "cardId": "TRL_506",
+      "dbfId": 50380,
+      "name": "Gurubashi Chicken",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Overkill:</b> Gain +5 Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 87,
+    "fields": {
+      "cardId": "TRL_516",
+      "dbfId": 50396,
+      "name": "Gurubashi Offering",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "At the start of your turn, destroy this and gain 8_Armor.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 88,
+    "fields": {
+      "cardId": "TRL_348t",
+      "dbfId": 50213,
+      "name": "Lynx",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 89,
+    "fields": {
+      "cardId": "TRL_074",
+      "dbfId": 49843,
+      "name": "Serrated Tooth",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "text": "<b>Deathrattle:</b> Give your minions <b>Rush</b>.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 90,
+    "fields": {
+      "cardId": "TRL_245",
+      "dbfId": 50002,
+      "name": "Shriek",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Discard your lowest Cost card. Deal $2 damage to all minions.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 91,
+    "fields": {
+      "cardId": "TRL_012",
+      "dbfId": 49051,
+      "name": "Totemic Smash",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Deal $2 damage. <b>Overkill</b>: Summon a basic Totem.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 92,
+    "fields": {
+      "cardId": "TRL_131t",
+      "dbfId": 50845,
+      "name": "Zombie",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 93,
+    "fields": {
+      "cardId": "TRL_065h",
+      "dbfId": 50579,
+      "name": "Berserker Throw",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Hero Power",
+      "text": "<b>Hero Power</b>\\nDeal $2 damage.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 94,
+    "fields": {
+      "cardId": "TRL_504",
+      "dbfId": 50374,
+      "name": "Booty Bay Bookie",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Give your opponent a Coin.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 95,
+    "fields": {
+      "cardId": "TRL_512",
+      "dbfId": 50391,
+      "name": "Cheaty Anklebiter",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Lifesteal</b>\\n<b>Battlecry:</b> Deal 1 damage.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 96,
+    "fields": {
+      "cardId": "TRL_406",
+      "dbfId": 50493,
+      "name": "Dozing Marksman",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Has +4 Attack while damaged.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 97,
+    "fields": {
+      "cardId": "TRL_362",
+      "dbfId": 50602,
+      "name": "Dragon Roar",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Add 2 random Dragons to your hand.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 98,
+    "fields": {
+      "cardId": "TRL_307",
+      "dbfId": 50028,
+      "name": "Flash of Light",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Restore #4 Health.\\nDraw a card.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 99,
+    "fields": {
+      "cardId": "TRL_352",
+      "dbfId": 50550,
+      "name": "Likkim",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "text": "Has +2 Attack while you have <b>Overloaded</b> Mana Crystals.",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 100,
+    "fields": {
+      "cardId": "TRL_566",
+      "dbfId": 51159,
+      "name": "Revenge of the Wild",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Summon your Beasts that died this turn.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 101,
+    "fields": {
+      "cardId": "TRL_503",
+      "dbfId": 50372,
+      "name": "Scarab Egg",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Deathrattle:</b> Summon three 1/1 Scarabs.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 102,
+    "fields": {
+      "cardId": "TRL_097",
+      "dbfId": 50278,
+      "name": "Seance",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Choose a minion. Add_a copy of it to your hand.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 103,
+    "fields": {
+      "cardId": "TRL_057",
+      "dbfId": 49800,
+      "name": "Serpent Ward",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "At the end of your turn,\\ndeal 2 damage to the enemy hero.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 104,
+    "fields": {
+      "cardId": "TRL_507",
+      "dbfId": 50383,
+      "name": "Sharkfin Fan",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After your hero attacks, summon a 1/1 Pirate.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 105,
+    "fields": {
+      "cardId": "TRL_570",
+      "dbfId": 52931,
+      "name": "Soup Vendor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Whenever you restore 3 or more Health to your hero, draw a card.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 106,
+    "fields": {
+      "cardId": "TRL_312",
+      "dbfId": 50083,
+      "name": "Spellzerker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Has <b>Spell Damage +2</b> while damaged.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 107,
+    "fields": {
+      "cardId": "TRLA_065p",
+      "dbfId": 53943,
+      "name": "Steady Throw",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Hero Power",
+      "text": "<b>Hero Power</b>\\nDeal $2 damage.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 108,
+    "fields": {
+      "cardId": "TRL_156",
+      "dbfId": 50749,
+      "name": "Stolen Steel",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "<b>Discover</b> a weapon <i>(from another class)</i>.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 109,
+    "fields": {
+      "cardId": "TRL_407",
+      "dbfId": 50497,
+      "name": "Waterboy",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Your next Hero Power this turn costs (0).",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 110,
+    "fields": {
+      "cardId": "TRL_343at1",
+      "dbfId": 43306,
+      "name": "Ankylodon",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 111,
+    "fields": {
+      "cardId": "TRLA_127",
+      "dbfId": 51230,
+      "name": "Astral Raptor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>\\n<b>Overkill:</b> Summon another Astral Raptor.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 112,
+    "fields": {
+      "cardId": "TRL_509",
+      "dbfId": 50386,
+      "name": "Banana Buffoon",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Add 2 Bananas to your hand.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 113,
+    "fields": {
+      "cardId": "TRLA_150",
+      "dbfId": 52042,
+      "name": "Bloodwash Medic",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>\\n<b>Overkill</b>: Add 3 healing spells to your hand.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 114,
+    "fields": {
+      "cardId": "TRLA_153",
+      "dbfId": 52045,
+      "name": "Conjuring Attendant",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Your spells cost (2) less.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 115,
+    "fields": {
+      "cardId": "TRLA_141",
+      "dbfId": 51924,
+      "name": "Lightchucker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After a character is healed, destroy a random\\nenemy minion.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 116,
+    "fields": {
+      "cardId": "TRL_546",
+      "dbfId": 50532,
+      "name": "Ornery Tortoise",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Deal 5 damage to your hero.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 117,
+    "fields": {
+      "cardId": "TRL_360",
+      "dbfId": 50595,
+      "name": "Overlord's Whip",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "text": "After you play a minion, deal 1 damage to it.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 118,
+    "fields": {
+      "cardId": "TRLA_188",
+      "dbfId": 53025,
+      "name": "Pesky Rascal",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Immune</b>\\n<b>Start of Game:</b> Draw this.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 119,
+    "fields": {
+      "cardId": "TRL_343ct1",
+      "dbfId": 43311,
+      "name": "Pterrordax",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Spell Damage +1</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 120,
+    "fields": {
+      "cardId": "TRL_315",
+      "dbfId": 50084,
+      "name": "Pyromaniac",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Whenever your Hero Power_kills a minion, draw a card.",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 121,
+    "fields": {
+      "cardId": "TRL_124",
+      "dbfId": 50773,
+      "name": "Raiding Party",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Draw 2 Pirates from_your deck.\\n<b>Combo:</b> And a weapon.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 122,
+    "fields": {
+      "cardId": "TRL_343dt1",
+      "dbfId": 43314,
+      "name": "Ravasaur",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Poisonous</b>, <b>Stealth</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 123,
+    "fields": {
+      "cardId": "TRL_551",
+      "dbfId": 50863,
+      "name": "Reckless Diretroll",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>\\n<b>Battlecry:</b> Discard your lowest Cost card.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 124,
+    "fields": {
+      "cardId": "TRL_343bt1",
+      "dbfId": 43307,
+      "name": "Sabertusk",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 125,
+    "fields": {
+      "cardId": "TRLA_164",
+      "dbfId": 52844,
+      "name": "Shadowmaw Panther",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Your Beasts have <b>Rush</b>.\\n<b>Start of Game:</b> Draw this.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 126,
+    "fields": {
+      "cardId": "TRLA_134",
+      "dbfId": 51823,
+      "name": "Showstopping Conjurer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>\\n<b>Overkill</b>: Draw a spell from your deck.",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 127,
+    "fields": {
+      "cardId": "TRLA_123",
+      "dbfId": 51226,
+      "name": "Succoring Skyscreamer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "[x]Whenever you gain\\nArmor, draw a card.\\nIt costs (2) less.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 128,
+    "fields": {
+      "cardId": "TRL_302",
+      "dbfId": 49999,
+      "name": "Time Out!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Your hero is <b>Immune</b> until your next turn.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 129,
+    "fields": {
+      "cardId": "TRL_351t",
+      "dbfId": 50906,
+      "name": "Toad",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 130,
+    "fields": {
+      "cardId": "TRL_405",
+      "dbfId": 50491,
+      "name": "Untamed Beastmaster",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Whenever you draw a Beast, give it +2/+2.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 131,
+    "fields": {
+      "cardId": "TRL_343at2",
+      "dbfId": 54599,
+      "name": "Wardruid Loti",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 132,
+    "fields": {
+      "cardId": "TRL_343bt2",
+      "dbfId": 54600,
+      "name": "Wardruid Loti",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 133,
+    "fields": {
+      "cardId": "TRL_343ct2",
+      "dbfId": 54601,
+      "name": "Wardruid Loti",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Spell Damage +1</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 134,
+    "fields": {
+      "cardId": "TRL_343dt2",
+      "dbfId": 54602,
+      "name": "Wardruid Loti",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Poisonous</b>, <b>Stealth</b>",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 135,
+    "fields": {
+      "cardId": "TRL_517",
+      "dbfId": 50397,
+      "name": "Arena Fanatic",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Give all minions in your hand +1/+1.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 136,
+    "fields": {
+      "cardId": "TRL_525",
+      "dbfId": 50411,
+      "name": "Arena Treasure Chest",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Deathrattle:</b> Draw 2 cards.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 137,
+    "fields": {
+      "cardId": "TRLA_165",
+      "dbfId": 52904,
+      "name": "Battlestarved Lynx",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Draw Beasts until your hand is full.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 138,
+    "fields": {
+      "cardId": "TRLA_140",
+      "dbfId": 51923,
+      "name": "Blessed One",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Draw spells until your hand is full.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 139,
+    "fields": {
+      "cardId": "TRLA_151",
+      "dbfId": 52043,
+      "name": "Bwonsamdi's Keeper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Restore all minions to full Health.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 140,
+    "fields": {
+      "cardId": "TRLA_184",
+      "dbfId": 52976,
+      "name": "Dark Diviner",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Fill your hand with random spells.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 141,
+    "fields": {
+      "cardId": "TRLA_143",
+      "dbfId": 51926,
+      "name": "Gloryseeker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Whenever this minion takes damage, your hero takes it instead.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 142,
+    "fields": {
+      "cardId": "TRL_096e",
+      "dbfId": 53254,
+      "name": "Guess the Card!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Enchantment",
+      "text": "Guess the card your opponent chose to get a copy.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 143,
+    "fields": {
+      "cardId": "TRL_010",
+      "dbfId": 49049,
+      "name": "Half-Time Scavenger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Stealth</b>\\n<b>Overkill</b>: Gain 3 Armor.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 144,
+    "fields": {
+      "cardId": "TRL_520",
+      "dbfId": 50402,
+      "name": "Murloc Tastyfin",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "[x]<b>Deathrattle:</b> Draw 2 Murlocs\\nfrom your deck.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 145,
+    "fields": {
+      "cardId": "TRL_244",
+      "dbfId": 49994,
+      "name": "Predatory Instincts",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "[x]Draw a Beast from your\\ndeck. Double its Health.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 146,
+    "fields": {
+      "cardId": "TRL_508",
+      "dbfId": 50385,
+      "name": "Regeneratin' Thug",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "At the start of your turn, restore #2 Health to this_minion.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 147,
+    "fields": {
+      "cardId": "TRL_531",
+      "dbfId": 50427,
+      "name": "Rumbletusk Shaker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Deathrattle:</b> Summon a 3/2 Rumbletusk Breaker.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 148,
+    "fields": {
+      "cardId": "TRLA_175",
+      "dbfId": 52930,
+      "name": "Seasoned Pitbrawler",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Whenever you gain Armor, gain twice as much.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 149,
+    "fields": {
+      "cardId": "TRL_015",
+      "dbfId": 49066,
+      "name": "Ticket Scalper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Overkill</b>: Draw 2 cards.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 150,
+    "fields": {
+      "cardId": "TRL_157",
+      "dbfId": 50766,
+      "name": "Walk the Plank",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Destroy an undamaged minion.",
+      "playerClass": "Rogue",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 151,
+    "fields": {
+      "cardId": "TRL_328",
+      "dbfId": 50066,
+      "name": "War Master Voone",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Copy all\\nDragons in your hand.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 152,
+    "fields": {
+      "cardId": "TRL_545",
+      "dbfId": 50514,
+      "name": "Zandalari Templar",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 153,
+    "fields": {
+      "cardId": "TRL_521",
+      "dbfId": 50403,
+      "name": "Arena Patron",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Overkill:</b> Summon another Arena Patron.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 154,
+    "fields": {
+      "cardId": "TRL_347",
+      "dbfId": 50466,
+      "name": "Baited Arrow",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Deal $3 damage. <b>Overkill:</b> Summon a 5/5 Devilsaur.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 155,
+    "fields": {
+      "cardId": "TRL_526",
+      "dbfId": 50412,
+      "name": "Dragonmaw Scorcher",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Deal 1 damage to all other minions.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 156,
+    "fields": {
+      "cardId": "TRL_323",
+      "dbfId": 50049,
+      "name": "Emberscale Drake",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain 5 Armor.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 157,
+    "fields": {
+      "cardId": "TRL_304",
+      "dbfId": 50014,
+      "name": "Farraki Battleaxe",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "text": "<b>Overkill:</b> Give a minion in your hand +2/+2.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 158,
+    "fields": {
+      "cardId": "TRLA_133",
+      "dbfId": 51822,
+      "name": "Fireslinger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After you cast a spell,\\ncast a Fireball at a random_enemy.",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 159,
+    "fields": {
+      "cardId": "TRL_151",
+      "dbfId": 50731,
+      "name": "Former Champ",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Summon a 5/5_Hotshot.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 160,
+    "fields": {
+      "cardId": "TRLA_174",
+      "dbfId": 52927,
+      "name": "Ironhorn Drummer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "Your minions can't be reduced below 1 Health on your turn.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 161,
+    "fields": {
+      "cardId": "TRL_258",
+      "dbfId": 50071,
+      "name": "Mass Hysteria",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Force each minion to_attack another random minion.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 162,
+    "fields": {
+      "cardId": "TRL_020",
+      "dbfId": 49088,
+      "name": "Sightless Ranger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>\\n<b>Overkill</b>: Summon two 1/1_Bats.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 163,
+    "fields": {
+      "cardId": "TRLA_169",
+      "dbfId": 52908,
+      "name": "Slamma Jamma",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Double the Attack of all your other_minions.",
+      "playerClass": "Hunter",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 164,
+    "fields": {
+      "cardId": "TRLA_152",
+      "dbfId": 52044,
+      "name": "Soulsapper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Deathrattle:</b> Steal 2 spells from your opponent's deck.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 165,
+    "fields": {
+      "cardId": "TRL_341",
+      "dbfId": 50356,
+      "name": "Treespeaker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Transform your Treants into 5/5 Ancients.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 166,
+    "fields": {
+      "cardId": "TRLA_124",
+      "dbfId": 51227,
+      "name": "Zandalari Striker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After your hero attacks, give your minions\\n+2 Attack.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 167,
+    "fields": {
+      "cardId": "TRLA_149",
+      "dbfId": 52041,
+      "name": "Ghastcoiler",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Deathrattle:</b> Summon\\n2 random <b>Deathrattle</b> minions.",
+      "playerClass": "Priest",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 168,
+    "fields": {
+      "cardId": "TRL_564",
+      "dbfId": 51136,
+      "name": "Mojomaster Zihi",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Set each player to 5 Mana Crystals.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 169,
+    "fields": {
+      "cardId": "TRL_351",
+      "dbfId": 50547,
+      "name": "Rain of Toads",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Summon three 2/4 Toads with <b>Taunt</b>. <b>Overload:</b> (3)",
+      "playerClass": "Shaman",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 170,
+    "fields": {
+      "cardId": "TRL_255",
+      "dbfId": 50044,
+      "name": "Stampeding Roar",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Summon a random Beast from your hand and give it <b>Rush</b>.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 171,
+    "fields": {
+      "cardId": "TRL_325",
+      "dbfId": 50056,
+      "name": "Sul'thraze",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "text": "<b>Overkill</b>: You may attack again.",
+      "playerClass": "Warrior",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 172,
+    "fields": {
+      "cardId": "TRLA_125",
+      "dbfId": 51228,
+      "name": "The Fan Favorite",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Overkill:</b> Give your hero +10 Attack this turn.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 173,
+    "fields": {
+      "cardId": "TRLA_142",
+      "dbfId": 51925,
+      "name": "The Walking Fort",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>\\nThis minion can only take\\n1_damage_at_a_time.",
+      "playerClass": "Paladin",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 174,
+    "fields": {
+      "cardId": "TRL_550",
+      "dbfId": 50776,
+      "name": "Amani War Bear",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>\\n<b>Taunt</b>",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 175,
+    "fields": {
+      "cardId": "TRL_257",
+      "dbfId": 50070,
+      "name": "Blood Troll Sapper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After a friendly minion dies, deal 2 damage to the enemy hero.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 176,
+    "fields": {
+      "cardId": "TRL_241",
+      "dbfId": 49985,
+      "name": "Gonk, the Raptor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "After your hero attacks and_kills a minion, it may_attack again.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 177,
+    "fields": {
+      "cardId": "TRL_232",
+      "dbfId": 49973,
+      "name": "Ironhide Direhorn",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Overkill:</b> Summon a 5/5_Ironhide Runt.",
+      "playerClass": "Druid",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 178,
+    "fields": {
+      "cardId": "TRL_316",
+      "dbfId": 50088,
+      "name": "Jan'alai, the Dragonhawk",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "playerClass": "Mage",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 179,
+    "fields": {
+      "cardId": "TRL_528",
+      "dbfId": 50416,
+      "name": "Linecracker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Overkill:</b> Double this minion's Attack.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 180,
+    "fields": {
+      "cardId": "TRL_515",
+      "dbfId": 50395,
+      "name": "Rabble Bouncer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>\\nCosts (1) less for each enemy minion.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 181,
+    "fields": {
+      "cardId": "TRL_555",
+      "dbfId": 50991,
+      "name": "Demonbolt",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Destroy a minion. Costs (1) less for each minion you control.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 182,
+    "fields": {
+      "cardId": "TRL_253",
+      "dbfId": 50034,
+      "name": "Hir'eek, the Bat",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Battlecry:</b> Fill your board with copies of this minion.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 183,
+    "fields": {
+      "cardId": "TRL_513",
+      "dbfId": 50392,
+      "name": "Mosh'Ogg Enforcer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Taunt</b>\\n<b>Divine Shield</b>",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 184,
+    "fields": {
+      "cardId": "TRL_246",
+      "dbfId": 50004,
+      "name": "Void Contract",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "text": "Destroy half of each player's deck.",
+      "playerClass": "Warlock",
+      "locale": "enUS"
+    }
+  },
+  {
+    "model": "deck_builder.hearthstonecard",
+    "pk": 185,
+    "fields": {
+      "cardId": "TRL_542",
+      "dbfId": 50459,
+      "name": "Oondasta",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "text": "<b>Rush</b>\\n<b>Overkill:</b> Summon a Beast from your hand.",
+      "playerClass": "Neutral",
+      "locale": "enUS"
+    }
+  }
+]
